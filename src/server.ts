@@ -1,3 +1,3 @@
-import { shoppingCart } from "./3.LSP/main";
+import { shoppingCart } from "./4.ISP/main";
 
 shoppingCart
